@@ -22,7 +22,7 @@ WordPress · Postman · Git · REST APIs
 **Motion & Interaction**  
 GSAP
 
-<img src="/icon/icons.png" style="width: 40px;">
+<img src="/icon/icons.png" style="width: 250px;">
 
 <p align="center">
   <!-- Top languages -->
