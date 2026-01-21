@@ -22,6 +22,8 @@ WordPress · Postman · Git · REST APIs
 **Motion & Interaction**  
 GSAP
 
+<img src="/icon/icons.png">
+
 <p align="center">
   <!-- Top languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilmizul255&layout=compact&theme=radical" alt="Top Languages" />
@@ -45,6 +47,3 @@ GSAP
   <a href="https://www.linkedin.com/in/hilmizul255">LinkedIn</a> ·
   <a href="mailto:hilmizul255@gmail.com">Email</a>
 </p>
-
-
-
