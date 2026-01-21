@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hilmi</h1>
 <p align="center">Front-End Developer & UI Engineer</p>
+<p align="center">
+  <a href="https://github.com/hilmizul255">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/hilmizul255">LinkedIn</a> ·
+  <a href="mailto:hilmizul255@gmail.com">Email</a>
+</p>
 
 ---
 
@@ -40,12 +45,3 @@ GSAP
 - Blogs & content platforms  
 - Motion-enhanced user experiences
 
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/hilmizul255">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/hilmizul255">LinkedIn</a> ·
-  <a href="mailto:hilmizul255@gmail.com">Email</a>
-</p>
