@@ -10,8 +10,8 @@
 
 ## 💼 About Me
 
-- 🔭 I build **interactive, design-led web interfaces**  
-- ⚡ Focus: UI, motion, animations with animated details  
+- 🔭 I build **interactive, design-led web interfaces**
+- ⚡ Focus: UI, motion, animations with animated details
 - 🤝 I love clean structure, responsive design, and minimal UI
 
 ---
@@ -27,8 +27,8 @@ WordPress · Postman · Git · REST APIs
 **Motion & Interaction**  
 GSAP
 
-<p align="center">
-<img src="/icon/icons.png" style="width: 500px;">
+<p align="center" cursor="none">
+<img src="/assets/icons.png" style="width: 500px;">
 </p>
 
 <p align="center">
@@ -40,8 +40,7 @@ GSAP
 
 ## 🚀 What I Build
 
-- Design-driven websites & landing pages  
-- Interactive UI systems  
-- Blogs & content platforms  
+- Design-driven websites & landing pages
+- Interactive UI systems
+- Blogs & content platforms
 - Motion-enhanced user experiences
-
